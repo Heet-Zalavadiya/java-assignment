@@ -59,7 +59,6 @@ public class MyBankDemo {
         amount = sc.nextDouble();
         mb4.debitAmt(amount);
         mb4.displayBal();
-
         sc.close();
 
     }
